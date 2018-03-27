@@ -1,0 +1,1085 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ddd82194-d628-461e-9b3f-4ba6c0b959af" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/API_fuzzer_master@Run.coverage" NAME="Run Coverage Results" MODIFIED="1521540515804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/API_fuzzer_master@Unnamed.coverage" NAME="Run Coverage Results" MODIFIED="1519413329029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/API_fuzzer_master@test3.coverage" NAME="test3 Coverage Results" MODIFIED="1520346069044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="API_Fuzzer.gemspec" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/API_Fuzzer.gemspec">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="64" lean-forward="true" selection-start-line="13" selection-start-column="64" selection-end-line="13" selection-end-column="64" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Ruby Class Template" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>success</find>
+      <find>Fuzzing fragment =</find>
+      <find>Hea</find>
+    </findStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/lib/tesfor.rb" />
+        <option value="$PROJECT_DIR$/config/initializers/logger.rb" />
+        <option value="$PROJECT_DIR$/lib/test2.rb" />
+        <option value="$PROJECT_DIR$/config/initializers/log_formatter.rb" />
+        <option value="$PROJECT_DIR$/lib/API_Fuzzer/request.rb" />
+        <option value="$PROJECT_DIR$/lib/test3.rb" />
+        <option value="$PROJECT_DIR$/lib/API_Fuzzer/header_info.rb" />
+        <option value="$PROJECT_DIR$/lib/API_Fuzzer/rate_limit_check.rb" />
+        <option value="$PROJECT_DIR$/lib/API_Fuzzer/idor_check.rb" />
+        <option value="$PROJECT_DIR$/lib/log.rb" />
+        <option value="$PROJECT_DIR$/lib/API_Fuzzer/privilege_escalation_check.rb" />
+        <option value="$PROJECT_DIR$/lib/testing.rb" />
+        <option value="$PROJECT_DIR$/lib/API_Fuzzer/csrf_check.rb" />
+        <option value="$PROJECT_DIR$/lib/API_Fuzzer/redirect_check.rb" />
+        <option value="$PROJECT_DIR$/lib/API_Fuzzer.rb" />
+        <option value="$PROJECT_DIR$/lib/API_Fuzzer/sql_blind_check.rb" />
+        <option value="$PROJECT_DIR$/lib/API_Fuzzer/xss_check.rb" />
+        <option value="$PROJECT_DIR$/lib/API_Fuzzer/sql_check.rb" />
+        <option value="$PROJECT_DIR$/lib/API_Fuzzer/xxe_check.rb" />
+        <option value="$PROJECT_DIR$/lib/API_Fuzzer/resource_info.rb" />
+        <option value="$PROJECT_DIR$/lib/API_Fuzzer/version.rb" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="API-fuzzer-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="API-fuzzer-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="API-fuzzer-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="API-fuzzer-master" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="editor.preferences.smartKeys" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Ruby.Run">
+    <configuration name="Run" type="RubyRunConfigurationType" factoryName="Ruby">
+      <module name="" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift) -I /Users/sanjeet.roy/projects/API-fuzzer-master/lib" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$PROJECT_DIR$/lib/testing.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="test3" type="RubyRunConfigurationType" factoryName="Ruby">
+      <module name="" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$PROJECT_DIR$/lib/test3.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Ruby.Run" />
+      <item index="1" class="java.lang.String" itemvalue="Ruby.test3" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ddd82194-d628-461e-9b3f-4ba6c0b959af" name="Default" comment="" />
+      <created>1519127179514</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1519127179514</updated>
+      <workItem from="1519127180866" duration="2087000" />
+      <workItem from="1519129354966" duration="708000" />
+      <workItem from="1519372263912" duration="9013000" />
+      <workItem from="1519623422663" duration="21140000" />
+      <workItem from="1519673373346" duration="3000" />
+      <workItem from="1519713022625" duration="966000" />
+      <workItem from="1519723212748" duration="626000" />
+      <workItem from="1519811698284" duration="93000" />
+      <workItem from="1519884977471" duration="673000" />
+      <workItem from="1520313013207" duration="5691000" />
+      <workItem from="1520328295608" duration="18174000" />
+      <workItem from="1520839633393" duration="253000" />
+      <workItem from="1520840036254" duration="4070000" />
+      <workItem from="1520920268388" duration="9677000" />
+      <workItem from="1521525723585" duration="196000" />
+      <workItem from="1521539677375" duration="1480000" />
+      <workItem from="1521615092108" duration="27000" />
+      <workItem from="1522131308070" duration="2163000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="77040000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.50497514" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3111588" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5751445" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4751244" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="ruby-line">
+          <url>file://$PROJECT_DIR$/config/initializers/log_formatter.rb</url>
+          <line>1</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="ruby-line">
+          <url>file://$PROJECT_DIR$/config/initializers/log_formatter.rb</url>
+          <line>2</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="ruby-line">
+          <url>file://$PROJECT_DIR$/lib/API_Fuzzer/request.rb</url>
+          <line>46</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="ruby-line">
+          <url>file://$PROJECT_DIR$/lib/API_Fuzzer/request.rb</url>
+          <line>45</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="ruby-line">
+          <url>file://$PROJECT_DIR$/lib/API_Fuzzer/request.rb</url>
+          <line>43</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="ruby-line">
+          <url>file://$PROJECT_DIR$/lib/API_Fuzzer/sql_check.rb</url>
+          <line>102</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="ruby-line">
+          <url>file://$PROJECT_DIR$/lib/API_Fuzzer/sql_check.rb</url>
+          <line>103</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="ruby-line">
+          <url>file://$PROJECT_DIR$/lib/API_Fuzzer/sql_check.rb</url>
+          <line>104</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="ruby-line">
+          <url>file://$PROJECT_DIR$/lib/API_Fuzzer/idor_check.rb</url>
+          <line>13</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="ruby-line">
+          <url>file://$PROJECT_DIR$/lib/API_Fuzzer/idor_check.rb</url>
+          <line>12</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="ruby-line">
+          <url>file://$PROJECT_DIR$/lib/API_Fuzzer/idor_check.rb</url>
+          <line>16</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="ruby-line">
+          <url>file://$PROJECT_DIR$/lib/API_Fuzzer/idor_check.rb</url>
+          <line>17</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="34" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Gemfile.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rules/headers.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rules/info.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/ping_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="32" lean-forward="true" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/payloads/xss.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/uri/rfc3986_parser.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="75" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/uri/common.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="713" column="0" lean-forward="false" selection-start-line="713" selection-start-column="0" selection-end-line="713" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/tesfor.rb" />
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/http-2.2.2/lib/http/timeout/null.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/payloads/blind_sql.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/payloads/detect/sql.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-442">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/payloads/sql.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/initializers/logger.rb" />
+    <entry file="file://$PROJECT_DIR$/config/initializers/log_formatter.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding>
+            <marker date="1520320520645" expanded="true" signature="44:125" ph=" ... end" />
+            <marker date="1520320520645" expanded="true" signature="86:121" ph=" ... end" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httprequest.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="98" column="4" lean-forward="true" selection-start-line="98" selection-start-column="4" selection-end-line="98" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/http-2.2.2/lib/http/headers.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/http-2.2.2/lib/http/client.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/uri/http.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="8" lean-forward="false" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <marker date="1500132004000" expanded="true" signature="133:154" ph="do ... end" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/net/http.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4263">
+          <caret line="1248" column="40" lean-forward="false" selection-start-line="1248" selection-start-column="37" selection-end-line="1248" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/http-2.2.2/lib/http/options.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/http-2.2.2/lib/http/chainable.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="179" column="0" lean-forward="false" selection-start-line="179" selection-start-column="0" selection-end-line="179" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@global/gems/did_you_mean-1.0.0/lib/did_you_mean/core_ext/name_error.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/logger.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="434" column="0" lean-forward="false" selection-start-line="434" selection-start-column="0" selection-end-line="434" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/activesupport-5.1.5/lib/active_support/core_ext/array/conversions.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="99" column="0" lean-forward="false" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/ruby-debug-ide-0.6.1.beta4/lib/ruby-debug-ide.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="93" column="0" lean-forward="false" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/concurrent-ruby-1.0.5/lib/concurrent/utility/at_exit.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/log.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="16" column="60" lean-forward="true" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/testing.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/test2.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/test3.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="36" lean-forward="true" selection-start-line="42" selection-start-column="36" selection-end-line="42" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="120">
+            <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/API_Fuzzer/csrf_check.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+          <folding>
+            <marker date="1522131710077" expanded="true" signature="123:1698" ph=" ... end" />
+            <marker date="1522131710077" expanded="true" signature="141:1694" ph=" ... end" />
+            <marker date="1522131710077" expanded="true" signature="319:1688" ph=" ... end" />
+            <marker date="1522131710077" expanded="true" signature="348:965" ph=" ... end" />
+            <marker date="1522131710077" expanded="true" signature="833:860" ph="{ ... }" />
+            <marker date="1522131710077" expanded="true" signature="986:1328" ph=" ... end" />
+            <marker date="1522131710077" expanded="true" signature="1353:1680" ph=" ... end" />
+            <marker date="1522131710077" expanded="true" signature="1501:1565" ph="{ ... }" />
+            <marker date="1522131710077" expanded="true" signature="1536:1563" ph="{ ... }" />
+            <marker date="1522131710077" expanded="true" signature="1609:1670" ph="{ ... }" />
+            <marker date="1522131710077" expanded="true" signature="1642:1668" ph="{ ... }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/API_Fuzzer/engine.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding>
+            <marker date="1500132004000" expanded="true" signature="34:76" ph=" ... end" />
+            <marker date="1500132004000" expanded="true" signature="49:72" ph=" ... end" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/API_Fuzzer/error.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1500132004000" expanded="true" signature="17:266" ph=" ... end" />
+            <marker date="1500132004000" expanded="true" signature="31:262" ph=" ... end" />
+            <marker date="1500132004000" expanded="true" signature="113:256" ph=" ... end" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/API_Fuzzer/idor_check.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding>
+            <marker date="1520933729769" expanded="true" signature="123:2201" ph=" ... end" />
+            <marker date="1520933729769" expanded="true" signature="141:2197" ph=" ... end" />
+            <marker date="1520933729769" expanded="true" signature="159:2191" ph=" ... end" />
+            <marker date="1520933729769" expanded="true" signature="235:667" ph=" ... end" />
+            <marker date="1520933729769" expanded="true" signature="630:657" ph="{ ... }" />
+            <marker date="1520933729769" expanded="true" signature="699:1303" ph=" ... end" />
+            <marker date="1520933729769" expanded="true" signature="776:1293" ph="do ... end" />
+            <marker date="1520933729769" expanded="true" signature="1361:1639" ph=" ... end" />
+            <marker date="1520933729769" expanded="true" signature="1689:2183" ph=" ... end" />
+            <marker date="1520933729769" expanded="true" signature="1903:2173" ph="do ... end" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/API_Fuzzer/privilege_escalation_check.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding>
+            <marker date="1520940995743" expanded="true" signature="123:2678" ph=" ... end" />
+            <marker date="1520940995743" expanded="true" signature="156:2674" ph=" ... end" />
+            <marker date="1520940995743" expanded="true" signature="174:2668" ph=" ... end" />
+            <marker date="1520940995743" expanded="true" signature="203:825" ph=" ... end" />
+            <marker date="1520940995743" expanded="true" signature="693:720" ph="{ ... }" />
+            <marker date="1520940995743" expanded="true" signature="852:2043" ph=" ... end" />
+            <marker date="1520940995743" expanded="true" signature="1109:1655" ph="do ... end" />
+            <marker date="1520940995743" expanded="true" signature="1133:1643" ph="if ... end" />
+            <marker date="1520940995743" expanded="true" signature="1227:1430" ph="if ... end" />
+            <marker date="1520940995743" expanded="true" signature="1748:2033" ph="do ... end" />
+            <marker date="1520940995743" expanded="true" signature="1813:2021" ph="if ... end" />
+            <marker date="1520940995743" expanded="true" signature="2088:2660" ph=" ... end" />
+            <marker date="1520940995743" expanded="true" signature="2111:2650" ph="do ... end" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/API_Fuzzer/rate_limit_check.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+          <folding>
+            <marker date="1520933560752" expanded="true" signature="96:2139" ph=" ... end" />
+            <marker date="1520933560752" expanded="true" signature="119:2135" ph=" ... end" />
+            <marker date="1520933560752" expanded="true" signature="151:651" ph=" ... end" />
+            <marker date="1520933560752" expanded="true" signature="496:534" ph="{ ... }" />
+            <marker date="1520933560752" expanded="true" signature="616:643" ph="{ ... }" />
+            <marker date="1520933560752" expanded="true" signature="691:1767" ph=" ... end" />
+            <marker date="1520933560752" expanded="true" signature="789:1001" ph="do ... end" />
+            <marker date="1520933560752" expanded="true" signature="1048:1448" ph="do ... end" />
+            <marker date="1520933560752" expanded="true" signature="1070:1438" ph="if ... end" />
+            <marker date="1520933560752" expanded="true" signature="1261:1368" ph="if ... end" />
+            <marker date="1520933560752" expanded="true" signature="1824:2005" ph=" ... end" />
+            <marker date="1520933560752" expanded="true" signature="2053:2129" ph=" ... end" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/API_Fuzzer/redirect_check.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="22" column="89" lean-forward="true" selection-start-line="22" selection-start-column="89" selection-end-line="22" selection-end-column="89" />
+          <folding>
+            <marker date="1522131959022" expanded="true" signature="137:3468" ph=" ... end" />
+            <marker date="1522131959022" expanded="true" signature="159:3464" ph=" ... end" />
+            <marker date="1522131959022" expanded="true" signature="261:3458" ph=" ... end" />
+            <marker date="1522131959022" expanded="true" signature="290:963" ph=" ... end" />
+            <marker date="1522131959022" expanded="true" signature="747:774" ph="{ ... }" />
+            <marker date="1522131959022" expanded="true" signature="987:1752" ph=" ... end" />
+            <marker date="1522131959022" expanded="true" signature="1274:1581" ph="do ... end" />
+            <marker date="1522131959022" expanded="true" signature="1298:1569" ph="if ... end" />
+            <marker date="1522131959022" expanded="true" signature="1642:1742" ph="do ... end" />
+            <marker date="1522131959022" expanded="true" signature="1782:2521" ph=" ... end" />
+            <marker date="1522131959022" expanded="true" signature="1812:2511" ph="do ... end" />
+            <marker date="1522131959022" expanded="true" signature="1834:2499" ph="begin ... end" />
+            <marker date="1522131959022" expanded="true" signature="2563:3388" ph=" ... end" />
+            <marker date="1522131959022" expanded="true" signature="2659:3378" ph="do ... end" />
+            <marker date="1522131959022" expanded="true" signature="2681:3366" ph="begin ... end" />
+            <marker date="1522131959022" expanded="true" signature="3414:3450" ph=" ... end" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/API_Fuzzer/vulnerability.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1500132004000" expanded="true" signature="17:298" ph=" ... end" />
+            <marker date="1500132004000" expanded="true" signature="40:293" ph=" ... end" />
+            <marker date="1500132004000" expanded="true" signature="136:287" ph=" ... end" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/API_Fuzzer/sql_check.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="535">
+          <caret line="40" column="65" lean-forward="true" selection-start-line="40" selection-start-column="65" selection-end-line="40" selection-end-column="65" />
+          <folding>
+            <marker date="1522132581972" expanded="true" signature="123:5880" ph=" ... end" />
+            <marker date="1522132581972" expanded="true" signature="147:168" ph=" ... end" />
+            <marker date="1522132581972" expanded="true" signature="186:5876" ph=" ... end" />
+            <marker date="1522132581972" expanded="true" signature="490:1470" ph=" ... end" />
+            <marker date="1522132581972" expanded="true" signature="1227:1254" ph="{ ... }" />
+            <marker date="1522132581972" expanded="true" signature="1435:1462" ph="{ ... }" />
+            <marker date="1522132581972" expanded="true" signature="1499:1630" ph=" ... end" />
+            <marker date="1522132581972" expanded="true" signature="1565:1622" ph="do ... end" />
+            <marker date="1522132581972" expanded="true" signature="1671:2673" ph=" ... end" />
+            <marker date="1522132581972" expanded="true" signature="2020:2322" ph="do ... end" />
+            <marker date="1522132581972" expanded="true" signature="2042:2312" ph="if ... end" />
+            <marker date="1522132581972" expanded="true" signature="2593:2665" ph="do ... end" />
+            <marker date="1522132581972" expanded="true" signature="2720:3965" ph=" ... end" />
+            <marker date="1522132581972" expanded="true" signature="2881:3957" ph="do ... end" />
+            <marker date="1522132581972" expanded="true" signature="2901:3947" ph="begin ... end" />
+            <marker date="1522132581972" expanded="true" signature="3393:3527" ph="if ... end" />
+            <marker date="1522132581972" expanded="true" signature="4019:5124" ph=" ... end" />
+            <marker date="1522132581972" expanded="true" signature="4157:5116" ph="do ... end" />
+            <marker date="1522132581972" expanded="true" signature="4177:5106" ph="begin ... end" />
+            <marker date="1522132581972" expanded="true" signature="5169:5324" ph=" ... end" />
+            <marker date="1522132581972" expanded="true" signature="5194:5304" ph="do ... end" />
+            <marker date="1522132581972" expanded="true" signature="5213:5294" ph="if ... end" />
+            <marker date="1522132581972" expanded="true" signature="5357:5392" ph=" ... end" />
+            <marker date="1522132581972" expanded="true" signature="5431:5558" ph=" ... end" />
+            <marker date="1522132581972" expanded="true" signature="5587:5870" ph=" ... end" />
+            <marker date="1522132581972" expanded="true" signature="5674:5719" ph="do ... end" />
+            <marker date="1522132581972" expanded="true" signature="5806:5862" ph="do ... end" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/API_Fuzzer/sql_blind_check.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="41" lean-forward="true" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+          <folding>
+            <marker date="1522132460850" expanded="true" signature="154:1569" ph=" ... end" />
+            <marker date="1522132460850" expanded="true" signature="178:199" ph=" ... end" />
+            <marker date="1522132460850" expanded="true" signature="221:1565" ph=" ... end" />
+            <marker date="1522132460850" expanded="true" signature="458:544" ph=" ... end" />
+            <marker date="1522132460850" expanded="true" signature="591:641" ph=" ... end" />
+            <marker date="1522132460850" expanded="true" signature="691:1333" ph=" ... end" />
+            <marker date="1522132460850" expanded="true" signature="748:1325" ph="do ... end" />
+            <marker date="1522132460850" expanded="true" signature="1061:1315" ph="if ... end" />
+            <marker date="1522132460850" expanded="true" signature="1362:1559" ph=" ... end" />
+            <marker date="1522132460850" expanded="true" signature="1449:1551" ph="do ... end" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/API_Fuzzer/xss_check.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="530">
+          <caret line="36" column="50" lean-forward="true" selection-start-line="36" selection-start-column="50" selection-end-line="36" selection-end-column="50" />
+          <folding>
+            <marker date="1522132551733" expanded="true" signature="123:2899" ph=" ... end" />
+            <marker date="1522132551733" expanded="true" signature="148:169" ph=" ... end" />
+            <marker date="1522132551733" expanded="true" signature="187:2895" ph=" ... end" />
+            <marker date="1522132551733" expanded="true" signature="387:1091" ph=" ... end" />
+            <marker date="1522132551733" expanded="true" signature="919:976" ph="do ... end" />
+            <marker date="1522132551733" expanded="true" signature="1056:1083" ph="{ ... }" />
+            <marker date="1522132551733" expanded="true" signature="1145:1310" ph=" ... end" />
+            <marker date="1522132551733" expanded="true" signature="1230:1302" ph="do ... end" />
+            <marker date="1522132551733" expanded="true" signature="1364:2391" ph=" ... end" />
+            <marker date="1522132551733" expanded="true" signature="1503:2383" ph="do ... end" />
+            <marker date="1522132551733" expanded="true" signature="1776:2373" ph="if ... end" />
+            <marker date="1522132551733" expanded="true" signature="1934:2361" ph="if ... end" />
+            <marker date="1522132551733" expanded="true" signature="2436:2523" ph=" ... end" />
+            <marker date="1522132551733" expanded="true" signature="2443:2503" ph="if ... end" />
+            <marker date="1522132551733" expanded="true" signature="2556:2591" ph=" ... end" />
+            <marker date="1522132551733" expanded="true" signature="2630:2721" ph=" ... end" />
+            <marker date="1522132551733" expanded="true" signature="2750:2889" ph=" ... end" />
+            <marker date="1522132551733" expanded="true" signature="2837:2881" ph="do ... end" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/API_Fuzzer/xxe_check.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+          <folding>
+            <marker date="1522132710038" expanded="true" signature="123:1237" ph=" ... end" />
+            <marker date="1522132710038" expanded="true" signature="140:1233" ph=" ... end" />
+            <marker date="1522132710038" expanded="true" signature="173:505" ph=" ... end" />
+            <marker date="1522132710038" expanded="true" signature="548:1067" ph=" ... end" />
+            <marker date="1522132710038" expanded="true" signature="681:827" ph="heredoc ..." />
+            <marker date="1522132710038" expanded="true" signature="1098:1227" ph=" ... end" />
+            <marker date="1522132710038" expanded="true" signature="1139:1198" ph="do ... end" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/API_Fuzzer/request.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+          <folding>
+            <marker date="1520330132259" expanded="true" signature="47:2146" ph=" ... end" />
+            <marker date="1520330132259" expanded="true" signature="63:2142" ph=" ... end" />
+            <marker date="1520330132259" expanded="true" signature="120:612" ph=" ... end" />
+            <marker date="1520330132259" expanded="true" signature="161:604" ph=" ... end" />
+            <marker date="1520330132259" expanded="true" signature="630:654" ph=" ... end" />
+            <marker date="1520330132259" expanded="true" signature="672:708" ph=" ... end" />
+            <marker date="1520330132259" expanded="true" signature="769:1134" ph=" ... end" />
+            <marker date="1520330132259" expanded="true" signature="1161:1645" ph=" ... end" />
+            <marker date="1520330132259" expanded="true" signature="1269:1637" ph="case ... end" />
+            <marker date="1520330132259" expanded="true" signature="1670:2074" ph=" ... end" />
+            <marker date="1520330132259" expanded="true" signature="1768:2066" ph="if ... end" />
+            <marker date="1520330132259" expanded="true" signature="2100:2136" ph=" ... end" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/API_Fuzzer/resource_info.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="21" column="58" lean-forward="false" selection-start-line="21" selection-start-column="58" selection-end-line="21" selection-end-column="58" />
+          <folding>
+            <marker date="1522132871377" expanded="true" signature="82:1463" ph=" ... end" />
+            <marker date="1522132871377" expanded="true" signature="107:128" ph=" ... end" />
+            <marker date="1522132871377" expanded="true" signature="150:1459" ph=" ... end" />
+            <marker date="1522132871377" expanded="true" signature="238:1453" ph=" ... end" />
+            <marker date="1522132871377" expanded="true" signature="263:651" ph=" ... end" />
+            <marker date="1522132871377" expanded="true" signature="349:641" ph="if ... end" />
+            <marker date="1522132871377" expanded="true" signature="674:827" ph=" ... end" />
+            <marker date="1522132871377" expanded="true" signature="849:1445" ph=" ... end" />
+            <marker date="1522132871377" expanded="true" signature="892:1400" ph="if ... end" />
+            <marker date="1522132871377" expanded="true" signature="968:1388" ph="do ... end" />
+            <marker date="1522132871377" expanded="true" signature="1003:1374" ph="do ... end" />
+            <marker date="1522132871377" expanded="true" signature="1030:1357" ph="if ... end" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/API_Fuzzer/header_info.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+          <folding>
+            <marker date="1520840805259" expanded="true" signature="82:1548" ph=" ... end" />
+            <marker date="1520840805259" expanded="true" signature="107:128" ph=" ... end" />
+            <marker date="1520840805259" expanded="true" signature="148:1544" ph=" ... end" />
+            <marker date="1520840805259" expanded="true" signature="167:1538" ph=" ... end" />
+            <marker date="1520840805259" expanded="true" signature="192:511" ph=" ... end" />
+            <marker date="1520840805259" expanded="true" signature="535:1303" ph=" ... end" />
+            <marker date="1520840805259" expanded="true" signature="586:1268" ph="do ... end" />
+            <marker date="1520840805259" expanded="true" signature="668:690" ph="{ ... }" />
+            <marker date="1520840805259" expanded="true" signature="701:1256" ph="if ... end" />
+            <marker date="1520840805259" expanded="true" signature="742:1021" ph="unless ... end" />
+            <marker date="1520840805259" expanded="true" signature="1332:1530" ph=" ... end" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/API_Fuzzer.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="32" column="52" lean-forward="true" selection-start-line="32" selection-start-column="52" selection-end-line="32" selection-end-column="52" />
+          <folding>
+            <marker date="1522132258592" expanded="true" signature="502:2053" ph=" ... end" />
+            <marker date="1522132258592" expanded="true" signature="557:1766" ph=" ... end" />
+            <marker date="1522132258592" expanded="true" signature="1808:2048" ph=" ... end" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/API_Fuzzer/version.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <marker date="1522133440000" expanded="true" signature="16:47" ph=" ... end" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API_Fuzzer.gemspec">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="64" lean-forward="true" selection-start-line="13" selection-start-column="64" selection-end-line="13" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>actioncable (v5.1.5, RVM: ruby-2.3.0) [gem]</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>rbenv: 2.3.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>API-fuzzer-master</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
